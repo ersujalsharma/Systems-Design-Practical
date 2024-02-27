@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="StrategicPattern.VehicleStrategy.NormalStrategy"/>
+    <fullyQualifiedTypeName name="StrategicPattern.vehicle.Vehicle"/>
+    <fullyQualifiedTypeName name="StrategicPattern.VehicleStrategy.DriveStrategy"/>
+    <fullyQualifiedTypeName name="StrategicPattern.VehicleStrategy.SportsStrategy"/>
+</qualifiedTypeNameHistroy>

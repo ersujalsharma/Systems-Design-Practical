@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\Study Material\Systems Design\Systems Design Practical\.metadata\.plugins\org.eclipse.jdt.core
+2484580881.index
+3011209426.index
+1865797976.index

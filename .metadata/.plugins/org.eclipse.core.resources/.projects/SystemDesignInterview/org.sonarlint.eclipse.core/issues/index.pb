@@ -1,0 +1,15 @@
+
+h
+8src/StrategicPattern/VehicleStrategy/NormalStrategy.java,a\e\ae8009d83cf390990e8a64ab0d52ac9cdbb13a53
+d
+4src/StrategicPattern/vehicleTypes/SportsVehicle.java,c\4\c48a1f22786ebb2fc5196983cd43bba3592fe7b8
+e
+5src/StrategicPattern/vehicleTypes/OffRoadVehicle.java,9\7\97e315b324cff5f2cd97ebfab8b767c99eeffedc
+h
+8src/StrategicPattern/VehicleStrategy/SportsStrategy.java,5\8\581a0510646148e6140137b92ee6609d4a3a5f85
+Y
+)src/StrategicPattern/vehicle/Vehicle.java,5\9\595421687dfb79fafc8bd21c5572ea54d74b781e
+g
+7src/StrategicPattern/VehicleStrategy/DriveStrategy.java,8\b\8b6c295405df6ec1ad7ed9f4bd6ed9ec463b84fa
+g
+7src/StrategicPattern/vehicleTypes/PassengerVehicle.java,5\e\5eb274bdc580dbbca4242226c710d4d51757b6ea

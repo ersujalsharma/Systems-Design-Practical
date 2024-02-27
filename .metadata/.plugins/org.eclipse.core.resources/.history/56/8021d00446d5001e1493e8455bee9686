@@ -1,0 +1,5 @@
+package VehicleStrategy;
+
+public interface DriveStrategy {
+	public void drive() ;
+}
