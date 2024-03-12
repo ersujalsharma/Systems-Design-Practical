@@ -10,12 +10,5 @@ public class Dispatcher {
     public Dispatcher(List<ElevatorController> list){
         this.list = list;
     }
-    void submitReq(int liftId){
-        for(ElevatorController elevatorController : list){
-            if(elevatorController.elevator.elevatorId == liftId){
-                Elevator elevator = elevatorController.elevator;
-            }
-        }
-    }
 
 }

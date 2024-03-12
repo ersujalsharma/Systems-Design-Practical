@@ -1,15 +1,13 @@
 package Button;
 
 import Building.Floor;
-import Dispatcher.Dispatcher;
+import Dispatcher.*;
 import elevatorComponent.Direction;
+import elevatorComponent.Elevator;
 
-public class InternalButton extends Button{
-    public InternalButton(Dispatcher dispatcher){
-        super(dispatcher);
-    }
-    @Override
-    void pressButton(Floor floor, Direction direction) {
-
+public class InternalButton{
+    InternalButtonDispatcher internalButtonDispatcher;
+    public void pressButton(int button,Elevator elevator) {
+        internalButtonDispatcher.submitInternalReq(button,elevator);
     }
 }
