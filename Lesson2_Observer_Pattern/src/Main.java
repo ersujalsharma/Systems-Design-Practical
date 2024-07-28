@@ -11,17 +11,18 @@ import WeatherWorkStation.Observerable.WorkStationObservableImpl;
 
 public class Main {
     public static void main(String[] args) {
-        /*
+//        /*
         // Weather Station Runner class
         WeatherStationInterface weatherStationInterface = new WorkStationObservableImpl(); // Observable. Ye Observe karenge
 
-//        DisplayObserver displayObserver = new TVDisplayObserverImpl("Samsung",weatherStationInterface);
-//        DisplayObserver displayObserver1 = new MobileDisplayObserver("IPhone",weatherStationInterface);
-//        weatherStationInterface.add(displayObserver);
-//        weatherStationInterface.add(displayObserver1);
-//        weatherStationInterface.setData(10);
+        DisplayObserver displayObserver = new TVDisplayObserverImpl("Samsung",weatherStationInterface);
+        DisplayObserver displayObserver1 = new MobileDisplayObserver("IPhone",weatherStationInterface);
+        System.out.println(weatherStationInterface.getData());
+        weatherStationInterface.add(displayObserver);
+        weatherStationInterface.add(displayObserver1);
+        weatherStationInterface.setData(1);
 
-        */
+//        */
 //        /*
         // WallMartInterView Design NotifyButton Main
         // observable interface

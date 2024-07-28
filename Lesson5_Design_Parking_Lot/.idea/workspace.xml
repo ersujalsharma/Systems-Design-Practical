@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c40b633f-38f5-406e-80cb-51c17ffa6ff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/entryGate/EntryGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/entryGate/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/exitGate/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/factoryClasses/ParkingSpotManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpot/FourWheelerParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpot/TwoWheelerParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpotManager/FourWheelerParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpotManager/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/parkingSpotManager/TwoWheelerParkingSpotManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson5_DesignParkingLot_Revision/Design_Parking_Lot/src/vehicle/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/15/a0e0d20446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/18/40ba8a5046d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/22/d073ce0446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/25/20b0dc7846d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/28/f0a3d30446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3e/201b834946d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3f/3040d40446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/44/10ddb9c045d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/56/8021d00446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5e/50d158c045d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/65/90972c6d46d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7f/20c6f58f46d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8/2044a68446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8b/9048d00446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8b/90d7cd0446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/98/30d2c44f46d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9a/6044d20446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9e/2037cf0446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a0/b025ce0446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a1/706bd20446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a3/10f2d30446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c1/c0c0e14a46d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c2/10afc04b46d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c3/40f6d10446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/da/904b704846d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e4/001b465146d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ea/005ad10446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f1/606b587546d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fc/b096d00446d5001e1493e8455bee9686" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/7/2c/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/7/53/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/7/61/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/e4/d0/2c/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/e4/d0/53/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/e4/d0/61/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/2e/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/d0/2c/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/d0/53/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/d0/61/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SystemDesignInterview/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2484580881.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3011209426.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/Design_Tic_Tac_Toe_Game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/PieceType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/PlayingPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/PlayingPieceO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/Model/PlayingPieceX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture13_DesignTicTacToeGame/Design_Tic_Tac_Toe_Game/src/TicTacToeGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/FileSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithCompositePattern/CompositeMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithCompositePattern/Directory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithCompositePattern/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithCompositePattern/FileSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithoutCompositePattern/Directory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithoutCompositePattern/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture14_Composite_Pattern/FileSystemWithoutComposite/src/WithoutCompositePattern/FileSystemMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/ArithmaticExpression_Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/src/ArithmaticExpressionInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/src/Expression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/src/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture15_Calculator_ArithmaticExpression/ArithmaticExpression_Calculator/src/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson2_Observer_Pattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson2_Observer_Pattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/NullObjectPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/Nullable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_11_NullableObjectPattern/NullObjectPattern/src/VehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/Vending_Machine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/ItemShelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/ItemType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingStatus/Impl/DispenseState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingStatus/Impl/HasMoneyState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingStatus/Impl/IdleState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingStatus/Impl/SelectionState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/DesignVendingMachine/VendingStatus/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_12_Design_Vending_Machine_State_Design_Pattern/Vending_Machine/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jqF4ec7OPY0IiENeE4OvkDP23K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Study Material/Systems Design/Systems Design Practical/Lesson5_Design_Parking_Lot"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40b633f-38f5-406e-80cb-51c17ffa6ff6" name="Changes" comment="" />
+      <created>1722106509771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722106509771</updated>
+    </task>
+    <servers />
+  </component>
+</project>
