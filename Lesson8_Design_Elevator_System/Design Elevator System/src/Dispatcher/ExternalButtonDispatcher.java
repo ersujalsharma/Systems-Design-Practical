@@ -20,10 +20,10 @@ public class ExternalButtonDispatcher extends Dispatcher{
             if(elevatorController.elevator.direction == Direction.Up){
                 if(floor<elevatorController.elevator.currentFloor){
                     val += (Building.list.size()-elevatorController.elevator.currentFloor)+
-                            Building.list.size()-floor;
+                            Building.list.size()+floor;
                 }
                 else{
-                    val += elevatorController.elevator.currentFloor-floor;
+                    val += floor-elevatorController.elevator.currentFloor;
                 }
             }
             else{

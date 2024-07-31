@@ -48,24 +48,29 @@ public class ElevatorController {
         if(elevatorCar.getDirection() == Direction.Up){
             // serve
             while (!minPq.isEmpty()){
-                // serve for all
+                System.out.println(minPq.poll());
             }
             while(!maxPq.isEmpty()){
                 // serve for all
+                System.out.println(maxPq.poll());
             }
             while(!pending.isEmpty()){
                 // serve for all
+                System.out.println(pending.poll());
             }
         }
         else{
             while(!maxPq.isEmpty()){
                 // serve for all
+                System.out.println(maxPq.poll());
             }
             while (!minPq.isEmpty()){
                 // serve for all
+                System.out.println(minPq.poll());
             }
             while(!pending.isEmpty()){
                 // serve for all
+                System.out.println(pending.poll());
             }
         }
     }

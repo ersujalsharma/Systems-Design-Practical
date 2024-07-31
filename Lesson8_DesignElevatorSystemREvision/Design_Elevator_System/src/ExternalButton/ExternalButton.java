@@ -1,8 +1,10 @@
 package ExternalButton;
 
 import Display.Direction;
+import Elevator.ElevatorController;
 
 public class ExternalButton {
+
     ExternalButtonDispatcher externalButtonDispatcher;
 
     public ExternalButtonDispatcher getExternalButtonDispatcher() {
@@ -14,6 +16,6 @@ public class ExternalButton {
     }
 
     public void pressButton(int floorId, Direction direction){
-
+        externalButtonDispatcher.submitReq(floorId,direction);
     }
 }

@@ -5,7 +5,13 @@ import Display.Direction;
 import java.util.List;
 
 public class InternalButton {
+
+    ElevatorCar elevatorCar;
     InternalButtonDispatcher internalButtonDispatcher;
+
+    public InternalButton(ElevatorCar elevatorCar){
+        this.elevatorCar = elevatorCar;
+    }
 
     public InternalButtonDispatcher getInternalButtonDispatcher() {
         return internalButtonDispatcher;
@@ -16,6 +22,6 @@ public class InternalButton {
     }
 
     public void pressButton(int floorId, Direction direction){
-        
+        internalButtonDispatcher.submitReq(elevatorCar.getElevatorId(),floorId,direction);
     }
 }
