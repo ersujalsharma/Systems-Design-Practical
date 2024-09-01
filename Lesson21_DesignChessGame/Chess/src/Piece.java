@@ -10,14 +10,14 @@ public class Piece {
             case Pawn:
                 if (color == Color.White) {
                     // White pawns move one square forward
-                    if (deltaX == 0 && deltaY == 1) {
+                    if (deltaX == 1 && deltaY == 0) {
                         return true;
                     } else {
                         return false;
                     }
                 } else {
                     // Black pawns move one square forward
-                    if (deltaX == 0 && deltaY == -1) {
+                    if (deltaX == -1 && deltaY == 0) {
                         return true;
                     } else {
                         return false;
