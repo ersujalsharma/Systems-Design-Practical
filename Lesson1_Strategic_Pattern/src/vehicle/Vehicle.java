@@ -1,6 +1,6 @@
-package StrategicPattern.vehicle;
+package StrategicPattern.src.vehicle;
 
-import StrategicPattern.VehicleStrategy.DriveStrategy;
+import StrategicPattern.src.VehicleStrategy.DriveStrategy;
 
 public class Vehicle {
 	// it has a strategy,

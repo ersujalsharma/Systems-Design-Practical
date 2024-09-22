@@ -1,15 +1,13 @@
-package StrategicPattern.vehicleTypes;
+package StrategicPattern.src.vehicleTypes;
 
-import StrategicPattern.VehicleStrategy.DriveStrategy;
-import StrategicPattern.VehicleStrategy.SportsStrategy;
-import StrategicPattern.vehicle.Vehicle;
+import StrategicPattern.src.vehicle.Vehicle;
 
 public class OffRoadVehicle extends Vehicle {
-	public OffRoadVehicle(DriveStrategy driveStrategy) {
+	public OffRoadVehicle(StrategicPattern.src.VehicleStrategy.DriveStrategy driveStrategy) {
 		super(driveStrategy);
 	}	
 	public static void main(String[] args) {
-		OffRoadVehicle p = new OffRoadVehicle(new SportsStrategy());
+		OffRoadVehicle p = new OffRoadVehicle(new StrategicPattern.src.VehicleStrategy.SportsStrategy());
 		p.driveStrategy.drive();
 	}
 }
